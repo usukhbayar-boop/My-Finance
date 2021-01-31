@@ -1,0 +1,24 @@
+{
+  "name": "MyFinance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usukhbayar-boop/My-Finance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usukhbayar-boop/My-Finance/issues"
+  },
+  "homepage": "https://github.com/usukhbayar-boop/My-Finance#readme",
+  "devDependencies": {
+    "electron": "^11.2.1"
+  }
+}
